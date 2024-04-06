@@ -1,1 +1,3 @@
-# froyolo.github.io
+https://froyolo.store
+
+just a little of fun
